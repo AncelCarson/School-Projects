@@ -1,0 +1,1 @@
+The Program has an issue in the skeleton code that i do not know how to resolve. The result is that the program is inconsistent in running. Running the program repeatedly gives different results. Because of this it is difficult to fine tune and correct ther issues in the program. In addition LETNET does not allow pinging from personal computers.

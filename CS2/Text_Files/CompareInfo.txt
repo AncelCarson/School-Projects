@@ -1,0 +1,18 @@
+Statistics for the first chapter of James:
+
+King James
+Characters: 2883
+Words: 544
+Sentences: 23
+
+
+NIV
+Characters: 3004
+Words: 546
+Sentences: 26
+
+
+Message
+Characters: 3422
+Words: 622
+Sentences: 44

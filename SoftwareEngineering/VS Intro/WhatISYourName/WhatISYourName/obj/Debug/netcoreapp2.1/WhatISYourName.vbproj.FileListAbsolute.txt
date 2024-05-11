@@ -1,0 +1,11 @@
+C:\Users\Ancel Carson\source\repos\WhatISYourName\WhatISYourName\bin\Debug\netcoreapp2.1\WhatISYourName.deps.json
+C:\Users\Ancel Carson\source\repos\WhatISYourName\WhatISYourName\bin\Debug\netcoreapp2.1\WhatISYourName.runtimeconfig.json
+C:\Users\Ancel Carson\source\repos\WhatISYourName\WhatISYourName\bin\Debug\netcoreapp2.1\WhatISYourName.runtimeconfig.dev.json
+C:\Users\Ancel Carson\source\repos\WhatISYourName\WhatISYourName\bin\Debug\netcoreapp2.1\WhatISYourName.dll
+C:\Users\Ancel Carson\source\repos\WhatISYourName\WhatISYourName\bin\Debug\netcoreapp2.1\WhatISYourName.pdb
+C:\Users\Ancel Carson\source\repos\WhatISYourName\WhatISYourName\obj\Debug\netcoreapp2.1\WhatISYourName.vbprojAssemblyReference.cache
+C:\Users\Ancel Carson\source\repos\WhatISYourName\WhatISYourName\obj\Debug\netcoreapp2.1\WhatISYourName.vbproj.CoreCompileInputs.cache
+C:\Users\Ancel Carson\source\repos\WhatISYourName\WhatISYourName\obj\Debug\netcoreapp2.1\WhatISYourName.AssemblyInfoInputs.cache
+C:\Users\Ancel Carson\source\repos\WhatISYourName\WhatISYourName\obj\Debug\netcoreapp2.1\WhatISYourName.AssemblyInfo.vb
+C:\Users\Ancel Carson\source\repos\WhatISYourName\WhatISYourName\obj\Debug\netcoreapp2.1\WhatISYourName.dll
+C:\Users\Ancel Carson\source\repos\WhatISYourName\WhatISYourName\obj\Debug\netcoreapp2.1\WhatISYourName.pdb

@@ -1,0 +1,20 @@
+C:\Users\Ancel Carson\source\repos\CalculatThis\CalculatThis\bin\Debug\netcoreapp2.1\CalculatThis.deps.json
+C:\Users\Ancel Carson\source\repos\CalculatThis\CalculatThis\bin\Debug\netcoreapp2.1\CalculatThis.runtimeconfig.json
+C:\Users\Ancel Carson\source\repos\CalculatThis\CalculatThis\bin\Debug\netcoreapp2.1\CalculatThis.runtimeconfig.dev.json
+C:\Users\Ancel Carson\source\repos\CalculatThis\CalculatThis\bin\Debug\netcoreapp2.1\CalculatThis.dll
+C:\Users\Ancel Carson\source\repos\CalculatThis\CalculatThis\bin\Debug\netcoreapp2.1\CalculatThis.pdb
+C:\Users\Ancel Carson\source\repos\CalculatThis\CalculatThis\obj\Debug\netcoreapp2.1\CalculatThis.vbproj.CoreCompileInputs.cache
+C:\Users\Ancel Carson\source\repos\CalculatThis\CalculatThis\obj\Debug\netcoreapp2.1\CalculatThis.AssemblyInfoInputs.cache
+C:\Users\Ancel Carson\source\repos\CalculatThis\CalculatThis\obj\Debug\netcoreapp2.1\CalculatThis.AssemblyInfo.vb
+C:\Users\Ancel Carson\source\repos\CalculatThis\CalculatThis\obj\Debug\netcoreapp2.1\CalculatThis.dll
+C:\Users\Ancel Carson\source\repos\CalculatThis\CalculatThis\obj\Debug\netcoreapp2.1\CalculatThis.pdb
+C:\Users\Ancel Carson\Documents\Letu\Semester 6 SP 19\Software Engineering\VS Intro\CalculatThis\CalculatThis\bin\Debug\netcoreapp2.1\CalculatThis.deps.json
+C:\Users\Ancel Carson\Documents\Letu\Semester 6 SP 19\Software Engineering\VS Intro\CalculatThis\CalculatThis\bin\Debug\netcoreapp2.1\CalculatThis.runtimeconfig.json
+C:\Users\Ancel Carson\Documents\Letu\Semester 6 SP 19\Software Engineering\VS Intro\CalculatThis\CalculatThis\bin\Debug\netcoreapp2.1\CalculatThis.runtimeconfig.dev.json
+C:\Users\Ancel Carson\Documents\Letu\Semester 6 SP 19\Software Engineering\VS Intro\CalculatThis\CalculatThis\bin\Debug\netcoreapp2.1\CalculatThis.dll
+C:\Users\Ancel Carson\Documents\Letu\Semester 6 SP 19\Software Engineering\VS Intro\CalculatThis\CalculatThis\bin\Debug\netcoreapp2.1\CalculatThis.pdb
+C:\Users\Ancel Carson\Documents\Letu\Semester 6 SP 19\Software Engineering\VS Intro\CalculatThis\CalculatThis\obj\Debug\netcoreapp2.1\CalculatThis.vbproj.CoreCompileInputs.cache
+C:\Users\Ancel Carson\Documents\Letu\Semester 6 SP 19\Software Engineering\VS Intro\CalculatThis\CalculatThis\obj\Debug\netcoreapp2.1\CalculatThis.AssemblyInfoInputs.cache
+C:\Users\Ancel Carson\Documents\Letu\Semester 6 SP 19\Software Engineering\VS Intro\CalculatThis\CalculatThis\obj\Debug\netcoreapp2.1\CalculatThis.AssemblyInfo.vb
+C:\Users\Ancel Carson\Documents\Letu\Semester 6 SP 19\Software Engineering\VS Intro\CalculatThis\CalculatThis\obj\Debug\netcoreapp2.1\CalculatThis.dll
+C:\Users\Ancel Carson\Documents\Letu\Semester 6 SP 19\Software Engineering\VS Intro\CalculatThis\CalculatThis\obj\Debug\netcoreapp2.1\CalculatThis.pdb

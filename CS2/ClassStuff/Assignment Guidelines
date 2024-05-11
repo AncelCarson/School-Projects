@@ -1,0 +1,39 @@
+Every source code file submitted must include authorship documentation. The documentation
+of your program must include an authorship and program introduction section before any code.
+
+This initial section must provide the following information:
+    Class name i.e. Program written for CS II
+    Assignment number i.e. Assign 2
+    Program author(s) i.e. Program written by Dr. Rouse
+    Date of last modification i.e. Last Modified on 1/10/2018
+    OS used i.e. Windows 10
+    IDE used i.e. Notepad++ and command line
+    Brief description of the program, its expected inputs, outputs, and process.
+
+Program comments must appear on the lines immediately above the section of code they are
+describing and should be aligned with the current level of indentation.
+
+Comments should be preceded by a blank line unless the preceding line contains a single block
+delimiter. Comment lines should not be followed by blank lines.
+
+A brief description of functionality must appear immediately before any method heading.
+
+There must be a space between math operators and assignment symbol i.e.
+num = 3 + 5;
+ not
+num=3+5;
+
+All curly braces will open at end of line it is blocking for and close on separate line (see example
+below)
+
+Limit any line in your program to 90 or less characters. i.e. don’t let it go off screen
+
+All levels of indention will consist of 3 spaces (see example below)
+
+// This program prints Welcome to Java!
+public class Welcome {
+   public static void main(String[] args) {
+      //This is the welcoming statement
+      System.out.println("Welcome to Java!");
+   }
+}

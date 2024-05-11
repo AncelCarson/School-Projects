@@ -1,0 +1,16 @@
+Start index: 422, start value: 3788
+
+FCFS head movements: 1632040
+SSTF head movements: 7853
+SCAN head movements: 7089
+CSCAN head movements: 9996
+LOOK head movements: 7908
+C-LOOK head movements: 9996
+
+What the total distance came from for each type
+FCFS: Going from one point in the request list to the next without any sorting
+SSTF: Sorting the list and going to the point closest to the last one
+SCAN: Going up from the start of the sorted request list until reaching zero then returning to the start and going down
+CSCAN: Going down from the start of the sorted request list until reaching then bottom and then going from the top back to the start
+LOOK: Going up from the start of the sorted request list until reaching the smallest item then returning to the start and going down
+C-LOOK: Going down from the start of the sorted request list until reaching then largest item and then going from the smallest item back to the start
