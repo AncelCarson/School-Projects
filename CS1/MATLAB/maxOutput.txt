@@ -1,0 +1,20 @@
+The max for Day 1 is $99.00.
+
+The max for Day 2 is $97.00.
+
+The max for Day 3 is $93.00.
+
+The max for Day 4 is $89.00.
+
+The max for Day 5 is $100.00.
+
+The max for Day 6 is $96.00.
+
+The max for Day 7 is $93.00.
+
+The max for Day 8 is $100.00.
+
+The max for Day 9 is $99.00.
+
+The max for Day 10 is $99.00.
+
