@@ -1,0 +1,33 @@
+For Monday1
+
+Trucks without fines are:
+Truck1
+Truck3
+Truck5
+
+Trucks with fines are:
+Truck2 $200
+Truck4 $50
+
+For Tuesday1
+
+Trucks without fines are:
+Truck1
+Truck3
+Truck5
+
+Trucks with fines are:
+Truck2 $200
+Truck4 $450
+
+For Wednesday1
+
+Trucks without fines are:
+Truck1
+Truck2
+
+Trucks with fines are:
+Truck3 $400
+Truck4 $350
+Truck5 $150
+
